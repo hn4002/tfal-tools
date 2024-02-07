@@ -1,3 +1,8 @@
+#!/opt/homebrew/bin/python3
+
+# Run this script to display a clock on the desktop
+# Usage:  python3 clock.py
+
 import time
 from tkinter import Tk, Label, Button
 
